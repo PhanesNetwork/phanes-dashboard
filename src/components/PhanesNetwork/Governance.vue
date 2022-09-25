@@ -1,7 +1,7 @@
 <template>
   <div id="governance">
     <h2 class="heading">Governed by the community</h2>
-    <p class="snippet">Phanes is a fully decentralized, community governed protocol with 120,121 token holders.</p>
+    <p class="snippet">Phanes is a fully decentralized, community governed protocol with 0 token holders.</p>
     <button class="governance-btn"><a href="https://guild.xyz/phanes-network" target="_blank">Governance</a></button>
   </div>
   <div class="faas-saas">
