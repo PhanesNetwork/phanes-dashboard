@@ -5,23 +5,21 @@
             <div class="col1">
                 <img src="@/assets/logo.png" alt="" class="logo">
                 <div class="social-icons">
-                    <a href="" target="_blank"><fonts-icon :icon="{ prefix: 'fab', iconName: 'facebook-square' }"/></a>
-                    <a href="" target="_blank"><fonts-icon :icon="{ prefix: 'fab', iconName: 'twitter-square' }"/></a>
-                    <a href="" target="_blank"><fonts-icon :icon="{ prefix: 'fab', iconName: 'discord' }"/></a>
-                    <a href="" target="_blank"><fonts-icon :icon="{ prefix: 'fab', iconName: 'telegram' }"/></a>
-                    <a href="" target="_blank"><fonts-icon :icon="{ prefix: 'fab', iconName: 'facebook-square' }"/></a>
-                </div>
+                   <a href="https://twitter.com/phanes_network" target="_blank"><fonts-icon :icon="{ prefix: 'fab', iconName: 'twitter-square' }"/></a>
+                <a href="" target="_blank"><fonts-icon :icon="{ prefix: 'fab', iconName: 'discord' }"/></a>
+                <a href="https://t.me/phanesnetwork" target="_blank"><fonts-icon :icon="{ prefix: 'fab', iconName: 'telegram' }"/></a>
+               
             </div>
-            <div class="col">
-                <h3 class="title">Important Links</h3>
-                <ul class="items">
-                    <li class="item"><a href="#">Phanes Token</a></li>
-                    <li class="item"><a href="#">Governance</a></li>
-                    <li class="item"><a href="#">Indices</a></li>
-                    <li class="item"><a href="#">Docs</a></li>
-                    <li class="item"><a href="#">FAQ</a></li>
-                </ul>
-            </div>
+        </div>
+        <div class="col">
+            <h3 class="title">Important Links</h3>
+            <ul class="items">
+                <li class="item"><a href="https://docs.phanes.network/phanes-tokenomics/phanes-token" target="_blank">Governance</a></li>
+                <li class="item"><a href="https://docs.phanes.network/products/phanes-index-portfolio" target="_blank">Indices</a></li>
+                <li class="item"><a href="https://docs.phanes.network/" target="_blank">Docs</a></li>
+                <li class="item"><a href="https://docs.phanes.network/official-links">FAQ</a></li>
+            </ul>
+        </div>
             <div class="col">
                 <h3 class="title">Support</h3>
                 <ul class="items">
